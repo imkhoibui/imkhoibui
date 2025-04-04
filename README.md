@@ -1,4 +1,4 @@
-<h2 href="khoibui.personal@gmail.com" align="center">Khoi Bui Dinh</h2>
+<h2 align="center">Khoi Bui Dinh</h2>
 
 - Bioinformatics Technician at [Pacific Informatics](https://pacificinformatics.com.vn/en/)
 - Former Mentee at [The Biodata Developers’ (BioDev) Network](https://www.sanger.ac.uk/collaboration/biodev-network/)
