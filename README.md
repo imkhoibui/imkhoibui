@@ -13,5 +13,11 @@
 - Let's connect: [Email](khoibui.personal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kbuidinh/)
 
 <div align="center">
+  
+  ![Khoi Bui's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkhoibui&show_icons=true&theme=radical)
+  
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=imkhoibui&color=brightgreen" alt="Profile Views" />
 </div>
