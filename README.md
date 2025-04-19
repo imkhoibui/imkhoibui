@@ -5,7 +5,7 @@
 - Studied **Computer Science** at [Fulbright University Vietnam](https://fulbright.edu.vn) - Vietnam's first and only liberal arts university
 - Current interests lie in developing **bioinformatics pipelines**, working with **single-cell and spatial omics** data, and benchmarking **machine learning** models for phenotypic prediction.
 
-- **Notable work**:
+- **My favourite work**:
   + 🌕 **Co-spatial**: a Nextflow pipeline to preprocess & combine spatial epigenome-transcriptome data to unravel tissue's omics information
   + 🔨 **Biofetch**: a Nextflow pipeline to parallely download FASTQ files from NCBI, ENA & GEO metadata
   + 🤖 **Cervical cancer classifier**: a signature-based model using bulk RNAseq data from combined human & viral counts to classify HPV+ cervical cancer
