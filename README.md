@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ![Khoi Bui's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkhoibui&show_icons=true&theme=radical)
+  ![Khoi Bui's GitHub stats](https://github-readme-stats-main-gold.vercel.app/api?username=imkhoibui&show_icons=true&theme=radical)
   
 </div>
 
