@@ -10,14 +10,10 @@
   + 🔨 **Biofetch**: a Nextflow pipeline to parallely download FASTQ files from NCBI, ENA & GEO metadata
   + 🤖 **Host, viral, chimeric reads extraction pipeline**: An adaptation from nf-core/viralrecon to extract reads for human, viral, and host-viral reads from human RNAseq data.
  
-- Let's connect: [Email](khoibui.personal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kbuidinh/)
+- Let's connect: [Email](khoibui.personal@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kbuidinh/) | [Website](https://imkhoibui.github.io/personal-webpage/)
 
 <div align="center">
   
   ![Khoi Bui's GitHub stats](https://github-readme-stats-main-gold.vercel.app/api?username=imkhoibui&show_icons=true&theme=radical)
   
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imkhoibui&color=brightgreen" alt="Profile Views" />
 </div>
